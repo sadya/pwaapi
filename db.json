@@ -1,0 +1,23 @@
+{
+"produk":
+[{"id":1,"nama":"Savanna fox","warna":"Khaki"},
+{"id":2,"nama":"Jaguar","warna":"Purple"},
+{"id":3,"nama":"Turtle, snake-necked","warna":"Yellow"},
+{"id":4,"nama":"Gray rhea","warna":"Red"},
+{"id":5,"nama":"Common langur","warna":"Pink"},
+{"id":6,"nama":"Mongoose, javan gold-spotted","warna":"Purple"},
+{"id":7,"nama":"Thomson's gazelle","warna":"Maroon"},
+{"id":8,"nama":"Fox, savanna","warna":"Turquoise"},
+{"id":9,"nama":"Purple moorhen","warna":"Pink"},
+{"id":10,"nama":"Tamandua, southern","warna":"Teal"},
+{"id":11,"nama":"Scarlet macaw","warna":"Crimson"},
+{"id":12,"nama":"Woylie","warna":"Red"},
+{"id":13,"nama":"Wolf spider","warna":"Puce"},
+{"id":14,"nama":"South American puma","warna":"Orange"},
+{"id":15,"nama":"White rhinoceros","warna":"Pink"},
+{"id":16,"nama":"Cat, cape wild","warna":"Orange"},
+{"id":17,"nama":"Macaque, japanese","warna":"Goldenrod"},
+{"id":18,"nama":"Possum, common brushtail","warna":"Goldenrod"},
+{"id":19,"nama":"Brown capuchin","warna":"Purple"},
+{"id":20,"nama":"Tawny eagle","warna":"Khaki"}]
+}
